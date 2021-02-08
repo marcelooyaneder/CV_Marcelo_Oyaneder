@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.5)  23 NOV 2020 23:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.5)  8 FEB 2021 14:00
 entering extended mode
 **./cv_marcelo_oyaneder.tex
 (cv_marcelo_oyaneder.tex
@@ -1553,13 +1553,17 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 8.
+
+Underfull \hbox (badness 2221) in paragraph at lines 15--32
+[]  []  [] 
+ []
+
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 37.
+(Font)              scaled to size 10.0pt on input line 38.
 )
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
 ine 102.
-
-(C:\Users\marcelo\AppData\Roaming\MiKTeX\2.9\tex/latex/lato\ts1lato-tlf.fd
+ (C:\Users\marcelo\AppData\Roaming\MiKTeX\2.9\tex/latex/lato\ts1lato-tlf.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
@@ -1613,8 +1617,8 @@ Package logreq Info: Writing requests to 'cv_marcelo_oyaneder.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  29203 strings out of 480930
- 587174 string characters out of 2898824
- 1252906 words of memory out of 3000000
+ 587361 string characters out of 2898824
+ 1253906 words of memory out of 3000000
  44588 multiletter control sequences out of 15000+200000
  778375 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1628,7 +1632,7 @@ type1/public/fontawesome/FontAwesome.pfb><C:/Users/marcelo/AppData/Roaming/MiKT
 eX/2.9/fonts/type1/typoland/lato/Lato-Bold.pfb><C:/Users/marcelo/AppData/Roamin
 g/MiKTeX/2.9/fonts/type1/typoland/lato/Lato-Regular.pfb><C:/Users/marcelo/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on cv_marcelo_oyaneder.pdf (1 page, 104522 bytes).
+Output written on cv_marcelo_oyaneder.pdf (1 page, 104851 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
