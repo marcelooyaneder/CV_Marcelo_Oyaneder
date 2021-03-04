@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.5)  8 FEB 2021 14:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.5)  4 MAR 2021 17:33
 entering extended mode
 **./cv_marcelo_oyaneder.tex
 (cv_marcelo_oyaneder.tex
@@ -1569,37 +1569,37 @@ File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 102.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 136.
+(Font)              <7> on input line 137.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 136.
+(Font)              <5> on input line 137.
 
 
-Package biblatex Warning: Type 'book' not found on input line 153.
+Package biblatex Warning: Type 'book' not found on input line 154.
 
 
-LaTeX Warning: Empty bibliography on input line 153.
+LaTeX Warning: Empty bibliography on input line 154.
 
 
-Package biblatex Warning: Type 'article' not found on input line 157.
+Package biblatex Warning: Type 'article' not found on input line 158.
 
 
-LaTeX Warning: Empty bibliography on input line 157.
+LaTeX Warning: Empty bibliography on input line 158.
 
 
-Package biblatex Warning: Type 'inproceedings' not found on input line 161.
+Package biblatex Warning: Type 'inproceedings' not found on input line 162.
 
 
-LaTeX Warning: Empty bibliography on input line 161.
+LaTeX Warning: Empty bibliography on input line 162.
 
 [1
 
 {C:/Users/marcelo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 172.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
 
 (cv_marcelo_oyaneder.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 171.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 171.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 172.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 172.
 Package rerunfilecheck Info: File `cv_marcelo_oyaneder.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1616,11 +1616,11 @@ Package logreq Info: Writing requests to 'cv_marcelo_oyaneder.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29203 strings out of 480930
- 587361 string characters out of 2898824
+ 29204 strings out of 480930
+ 587203 string characters out of 2898824
  1253906 words of memory out of 3000000
  44588 multiletter control sequences out of 15000+200000
- 778375 words of font info for 50 fonts, out of 3000000 for 9000
+ 778789 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,9n,96p,1166b,792s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/marcelo/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/lato/a_rt66h3.en
@@ -1632,9 +1632,9 @@ type1/public/fontawesome/FontAwesome.pfb><C:/Users/marcelo/AppData/Roaming/MiKT
 eX/2.9/fonts/type1/typoland/lato/Lato-Bold.pfb><C:/Users/marcelo/AppData/Roamin
 g/MiKTeX/2.9/fonts/type1/typoland/lato/Lato-Regular.pfb><C:/Users/marcelo/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on cv_marcelo_oyaneder.pdf (1 page, 104851 bytes).
+Output written on cv_marcelo_oyaneder.pdf (1 page, 105477 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 41 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
